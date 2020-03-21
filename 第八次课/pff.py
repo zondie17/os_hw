@@ -104,17 +104,3 @@ else:
 	print ''
 	print 'FINALSTATS hits %d   misses %d   hitrate %.2f' % (hits, miss, (100.0*float(hits))/(float(hits)+float(miss)))
 	print ''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
